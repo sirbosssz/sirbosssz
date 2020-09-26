@@ -1,5 +1,4 @@
-# 👨🏼‍💻 Resume V2
-## Pattadon Bao-ngern
+# Pattadon Bao-ngern
 <!-- select_only_one_profession -->
 ### 🎮 Game Designer | 💻 Web Developer | 📐UX Designer
 <!-- Personal information -->

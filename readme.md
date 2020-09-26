@@ -22,18 +22,23 @@ info: {
 ## 🛣 Carrer Path
 
 > I'like to have my own company in game industry and develop addictive games.
+
 - [ ] create my own first game
 - [ ] monetize my own game
 - [ ] craete game development team
 - [ ] registered game company
 
 ## 🚀 Work Expereince
-* **Frontend Developer,**  Engineer: SistaCafe Project
+
+- **Frontend Developer,** Engineer: SistaCafe Project
   - 🏢 Donuts Bangkok
   - 📅 Aug 2019 - Present
   - 🛠 Nuxt.js, Vue.js, Ruby on Rails
 
+---
+
 ## 🛠 Technical Skills
+
 > 🟢: Professional 🔵: Experienced 🟠: Used to ⚫: Beginning
 
 <table>
@@ -79,5 +84,21 @@ info: {
       <td>👨🏼‍💻 Nest.js ⚫</td>
       <td>🛢 MySQL ⚫</td>
     </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>👨🏼‍💻 Swift, Xcode ⚫</td>
+    </tr>
   </tbody>
 </table>
+
+---
+
+## 🏆 Awards
+
+- **NCCIT Conference**: Senior Project “Floteria”
+  - 📅 July, 2019
+  - 🗺 KNUTNB
+  - 📑 The program is a web application with a
+    minigame to helps user learning in Flowchart
+    and Computational Thinking.

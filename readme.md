@@ -13,7 +13,7 @@ info: {
   "📧": "pattadonb8@hotmail.com",
   "📞": "(+66)81-715-5348",
   "📍": "Bangkok, Thailand",
-  ":octocat:": "sirbosssz",
+  " :octocat: ": "sirbosssz",
   "GitLab": "sirbosssz",
 }
 ```
@@ -26,7 +26,7 @@ info: {
 - [ ] craete game development team
 - [ ] registered game company
 
-## 🏢 Work Expereince
+## 🖥 Work Expereince
 * **Frontend Developer,**  Engineer: SistaCafe Project
   - 🏢 Donuts Bangkok
   - 📅 Aug 2019 - Present

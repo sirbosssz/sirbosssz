@@ -19,6 +19,14 @@ info: {
 }
 ```
 
+## 👨🏻‍🎓 Education
+
+```bash
+$ 🏫 faculty Information_Technology, KMITL
+$ 📖 major "Multimedia and Game Development"
+$ 📈 3.08
+```
+
 ## 🛣 Carrer Path
 
 > I'like to have my own company in game industry and develop addictive games.
@@ -96,9 +104,12 @@ info: {
 
 ## 🏆 Awards
 
-- **NCCIT Conference**: Senior Project “Floteria”
-  - 📅 July, 2019
-  - 🗺 KNUTNB
-  - 📑 The program is a web application with a
-    minigame to helps user learning in Flowchart
-    and Computational Thinking.
+```typescript
+conference NCCIT(`Senior Project: ${Floteria}`) => {
+  const 📅: Date = new Date('July, 2019')
+  const 🗺: Location = new Location('KMUTNB')
+  return {
+    📝: 'The program is a web application with a minigame to helps user learning in Flowchart and Computational Thinking.'
+  }
+}
+```

@@ -1,4 +1,4 @@
-# 👨🏼‍💻 Pattadon Bao-ngern
+# 🙎🏻‍♂️Pattadon Bao-ngern
 
 <!-- select_only_one_profession -->
 
@@ -6,14 +6,15 @@
 
 <!-- Personal information -->
 
-I am software engineer who likes in technology and game industry.
+I am 👨🏼‍💻 software engineer who likes in 💻technology and 🎮game development.
 
 ```json
 info: {
   "📧": "pattadonb8@hotmail.com",
   "📞": "(+66)81-715-5348",
-  "📍": "Bangkok, Thailand",
-  " :octocat: ": "sirbosssz",
+  "🏠": "Bangkok, Thailand",
+  "🔗": "http://localhost:8080/",
+  "GitHub": "sirbosssz",
   "GitLab": "sirbosssz",
 }
 ```
@@ -26,7 +27,7 @@ info: {
 - [ ] craete game development team
 - [ ] registered game company
 
-## 🖥 Work Expereince
+## 🚀 Work Expereince
 * **Frontend Developer,**  Engineer: SistaCafe Project
   - 🏢 Donuts Bangkok
   - 📅 Aug 2019 - Present

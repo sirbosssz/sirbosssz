@@ -2,7 +2,7 @@
 
 <!-- select_only_one_profession -->
 
-### 🎮 Game Designer | 💻 Web Developer | 📐UX Designer
+### 🎮 Game Designer | 💻 Web Developer
 
 <!-- Personal information -->
 

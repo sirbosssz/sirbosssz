@@ -6,7 +6,7 @@
 
 <!-- Personal information -->
 
-I am 👨🏼‍💻 software engineer who likes in 💻technology and 🎮game development.
+> I am 👨🏼‍💻 software engineer who likes in 💻technology and 🎮game development.
 
 ```json
 info: {
@@ -19,13 +19,15 @@ info: {
 }
 ```
 
-## 👨🏻‍🎓 Education
+### 👨🏻‍🎓 Education
 
 ```bash
 $ 🏫 faculty Information_Technology, KMITL
 $ 📖 major "Multimedia and Game Development"
 $ 📈 3.08
 ```
+
+---
 
 ## 🛣 Carrer Path
 

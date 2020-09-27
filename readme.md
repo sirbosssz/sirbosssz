@@ -33,6 +33,9 @@ $ 📈 3.08
 
 > I'like to have my own company in game industry and develop addictive games.
 
+- [x] have experience in tech company
+- [ ] have experience in game company
+- [x] design my own first game
 - [ ] create my own first game
 - [ ] monetize my own game
 - [ ] craete game development team

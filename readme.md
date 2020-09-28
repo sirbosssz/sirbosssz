@@ -11,7 +11,6 @@
 ```json
 info: {
   "📧": "pattadonb8@hotmail.com",
-  "📞": "(+66)81-715-5348",
   "🏠": "Bangkok, Thailand",
   "🔗": "http://localhost:8080/",
   "GitHub": "sirbosssz",

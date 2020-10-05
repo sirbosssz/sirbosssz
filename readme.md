@@ -84,17 +84,17 @@ $ 📈 3.08
     </tr>
     <tr>
       <td colspan="2">👨🏼‍💻 Cocos Creator ⚫</td>
-      <td>🛢 Firebase ⚫</td>
+      <td>🛢 Firebase 🟠</td>
     </tr>
     <tr>
       <td></td>
-      <td>👨🏼‍💻 Ruby on Rails ⚫</td>
+      <td>👨🏼‍💻 Ruby on Rails 🟠</td>
       <td>✍🏼 Markdown 🔵</td>
     </tr>
     <tr>
       <td></td>
       <td>👨🏼‍💻 Nest.js ⚫</td>
-      <td>🛢 MySQL ⚫</td>
+      <td>🛢 MySQL 🟠</td>
     </tr>
     <tr>
       <td></td>

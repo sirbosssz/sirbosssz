@@ -2,7 +2,7 @@
 
 All icons should save in svg format.
 
-- [ ] 🙎🏻‍♂️ person
+icons (35 left.)
 - [ ] 🎮 game controller
 - [ ] 💻 computer notebook
 - [ ] 👨🏼‍💻 person with computer
@@ -24,7 +24,6 @@ All icons should save in svg format.
 - [ ] vuejs
 - [ ] docker
 - [ ] nuxt
-- [ ] git
 - [ ] phaser
 - [ ] typescript
 - [ ] afdesign

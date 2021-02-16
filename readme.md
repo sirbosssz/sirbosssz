@@ -28,7 +28,7 @@ $ 📈 3.08
 
 ---
 
-## 🛣 Carrer Path
+## 🧳 Carrer Path
 
 > I'like to have my own company in game industry and develop addictive games.
 

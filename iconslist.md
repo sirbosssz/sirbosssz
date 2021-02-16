@@ -1,0 +1,41 @@
+# Icons List for Me...
+
+All icons should save in svg format.
+
+- [ ] 🙎🏻‍♂️ person
+- [ ] 🎮 game controller
+- [ ] 💻 computer notebook
+- [ ] 👨🏼‍💻 person with computer
+- [ ] 📧 mail
+- [ ] 🏠 home
+- [ ] 🔗 link
+- [ ] github
+- [ ] gitlab
+- [ ] 👨🏻‍🎓 person educated
+- [ ] 🏫 school
+- [ ] 📖 book
+- [ ] 📈 graph
+- [ ] 🧳 suitcase
+- [ ] 🚀 rocket
+- [ ] 🏢 office
+- [ ] 📅 calendar
+- [ ] 🛠 tools
+- [ ] 📝 write
+- [ ] vuejs
+- [ ] docker
+- [ ] nuxt
+- [ ] git
+- [ ] phaser
+- [ ] typescript
+- [ ] afdesign
+- [ ] godot
+- [ ] reactjs
+- [ ] adobe
+- [ ] cocos
+- [ ] firebase
+- [ ] ruby
+- [ ] nestjs
+- [ ] database
+- [ ] 📱 mobile
+- [ ] 🏆 trophy
+- [ ] 🗺 map

@@ -2,7 +2,7 @@
 
 All icons should save in svg format.
 
-icons (35 left.)
+icons (17 left.)
 - [x] 🎮 game controller
 - [x] website
 - [ ] 💻 computer notebook

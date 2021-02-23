@@ -3,38 +3,25 @@
 All icons should save in svg format.
 
 icons (35 left.)
-- [ ] 🎮 game controller
+- [x] 🎮 game controller
+- [x] website
 - [ ] 💻 computer notebook
-- [ ] 👨🏼‍💻 person with computer
+- [x] 👨🏼‍💻 person with computer
+- [x] ℹ info
+- [x] 🌟 interest
 - [ ] 📧 mail
+- [ ] 📱 mobile
 - [ ] 🏠 home
-- [ ] 🔗 link
 - [ ] github
 - [ ] gitlab
 - [ ] 👨🏻‍🎓 person educated
 - [ ] 🏫 school
 - [ ] 📖 book
 - [ ] 📈 graph
+- [ ] 💥 exp
 - [ ] 🧳 suitcase
 - [ ] 🚀 rocket
 - [ ] 🏢 office
-- [ ] 📅 calendar
 - [ ] 🛠 tools
 - [ ] 📝 write
-- [ ] vuejs
-- [ ] docker
-- [ ] nuxt
-- [ ] phaser
-- [ ] typescript
-- [ ] afdesign
-- [ ] godot
-- [ ] reactjs
-- [ ] adobe
-- [ ] cocos
-- [ ] firebase
-- [ ] ruby
-- [ ] nestjs
-- [ ] database
-- [ ] 📱 mobile
 - [ ] 🏆 trophy
-- [ ] 🗺 map

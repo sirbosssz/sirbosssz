@@ -2,7 +2,7 @@
 
 All icons should save in svg format.
 
-icons (17 left.)
+icons (15 left.)
 - [x] 🎮 game controller
 - [x] website
 - [ ] 💻 computer notebook
@@ -18,10 +18,8 @@ icons (17 left.)
 - [ ] 🏫 school
 - [ ] 📖 book
 - [ ] 📈 graph
-- [ ] 💥 exp
 - [ ] 🧳 suitcase
-- [ ] 🚀 rocket
+- [ ] 🚀 experience
 - [ ] 🏢 office
-- [ ] 🛠 tools
-- [ ] 📝 write
+- [ ] 🛠 skills
 - [ ] 🏆 trophy

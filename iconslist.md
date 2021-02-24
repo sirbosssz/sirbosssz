@@ -15,7 +15,7 @@ icons (15 left.)
 - [ ] github
 - [ ] gitlab
 - [ ] 👨🏻‍🎓 person educated
-- [ ] 🏫 school
+- [x] 🏫 school
 - [ ] 📖 book
 - [ ] 📈 graph
 - [ ] 🧳 suitcase

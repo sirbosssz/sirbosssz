@@ -9,9 +9,9 @@ icons (15 left.)
 - [x] 👨🏼‍💻 person with computer
 - [x] ℹ info
 - [x] 🌟 interest
-- [ ] 📧 mail
-- [ ] 📱 mobile
-- [ ] 🏠 home
+- [x] 📧 mail
+- [x] 📱 mobile
+- [x] 🏠 home
 - [ ] github
 - [ ] gitlab
 - [ ] 👨🏻‍🎓 person educated

@@ -11,11 +11,11 @@ icons (4 left.)
 - [x] 📧 mail
 - [x] 📱 mobile
 - [x] 🏠 home
-- [ ] github
-- [ ] gitlab
+- [x] github
+- [x] gitlab
 - [x] 🏫 school
 - [x] 📖 book
 - [x] 🧳 suitcase
 - [x] 🚀 experience
-- [ ] 🛠 skills
+- [x] 🛠 skills
 - [ ] 🏆 trophy

@@ -2,7 +2,7 @@
 
 All icons should save in svg format.
 
-icons (4 left.)
+icons (0 left.)
 - [x] 🎮 game controller
 - [x] website
 - [x] 👨🏼‍💻 person with computer
@@ -18,4 +18,4 @@ icons (4 left.)
 - [x] 🧳 suitcase
 - [x] 🚀 experience
 - [x] 🛠 skills
-- [ ] 🏆 trophy
+- [x] 🏆 trophy

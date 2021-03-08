@@ -1,13 +1,17 @@
 # 📚 Portfolio
 
+<div style="display: flex; justify-content: center;">
+  <img width="120px" src="portfolio_image/profile_black.jpg" style="border-radius: 50%" />
+</div>
+
 Currently sort by time. ⏲
 
 ```json
-skills_tags: {
-  🎮: "Game (Design & Development)",
-  💻: "Web",
-  📱: "UI/UX",
-  👨‍💼: "Project Management",
+"skills_tags": {
+  "🎮": "Game (Design & Development)",
+  "💻": "Web",
+  "📱": "UI/UX",
+  "👨‍💼": "Project Management",
 }
 ```
 

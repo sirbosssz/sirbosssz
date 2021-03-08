@@ -1,6 +1,8 @@
 # 📚 Portfolio
 
-<img width="120px" src="portfolio_image/profile_black.jpg" />
+<p align="center">
+  <img width="120px" src="portfolio_image/profile_black.jpg" />
+</p>
 
 Currently sort by time. ⏲
 

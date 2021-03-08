@@ -18,7 +18,7 @@ info: {
 }
 ```
 
-**Portfolio:** [portfolio.md](https://github.com/sirbosssz/sirbosssz/blob/master/portfolio.md)
+**Portfolio:** [portfolio.md](portfolio.md)
 
 ### 👨🏻‍🎓 Education
 

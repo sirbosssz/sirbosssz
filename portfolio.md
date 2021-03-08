@@ -1,8 +1,6 @@
 # 📚 Portfolio
 
-<div style="display: flex; justify-content: center;">
-  <img width="120px" src="portfolio_image/profile_black.jpg" style="border-radius: 50%" />
-</div>
+<img width="120px" src="portfolio_image/profile_black.jpg" />
 
 Currently sort by time. ⏲
 

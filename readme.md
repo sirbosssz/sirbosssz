@@ -18,8 +18,6 @@ info: {
 }
 ```
 
-**Portfolio:** [portfolio.md](portfolio.md)
-
 ### 👨🏻‍🎓 Education
 
 ```bash

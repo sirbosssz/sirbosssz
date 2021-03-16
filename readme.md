@@ -26,6 +26,10 @@ $ 📖 major "Multimedia and Game Development"
 $ 📈 3.08
 ```
 
+### ⭐ Interest
+
+`#GameDesign`  `#WebGL`  `#UX/UI`  `#PWA`  `#DigitalMarketing`  `#ProjectManagement`
+
 ---
 
 ## 🧳 Carrer Path

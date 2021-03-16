@@ -85,7 +85,6 @@ $ 📈 3.08
     <tr>
       <td colspan="2">👨🏼‍💻 Socket.io ⚫</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td></td>

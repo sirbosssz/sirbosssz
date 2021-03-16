@@ -32,14 +32,6 @@ $ 📈 3.08
 
 > I'like to have my own company in game industry and develop addictive games.
 
-- [x] have experience in tech company
-- [ ] have experience in game company
-- [x] design my own first game
-- [ ] create my own first game
-- [ ] monetize my own game
-- [ ] craete game development team
-- [ ] registered game company
-
 ## 🚀 Work Expereince
 
 - **Frontend Developer,** Engineer: SistaCafe Project
@@ -51,55 +43,59 @@ $ 📈 3.08
 
 ## 🛠 Technical Skills
 
-> 🟢: Professional 🔵: Experienced 🟠: Used to ⚫: Beginning
+> 🟢: Experienced 🟠: Used to ⚫: Beginning
 
 <table>
   <thead>
     <tr>
       <th>🎮 Game (design/develop)</th>
       <th>💻 Web (frontend)</th>
-      <th>🛠 Others</th>
+      <th>🛠 Dev Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>📝 MDA Framework 🟢</td>
-      <td>👨🏼‍💻 Vue.js 🟢</td>
-      <td>🐳 Docker 🔵</td>
+      <td>👨🏼‍💻 Vue.js (v2, 3) 🟢</td>
+      <td>🐳 Docker 🟢</td>
+    </tr>
+    <tr>
+      <td colspan="2">👨🏼‍💻 Phaser.js 🟢</td>
+      <td>:octocat: Git (GitHub, GitLab) 🟢</td>
     </tr>
     <tr>
       <td>📝 Elemental Tetrad 🟠</td>
-      <td>👨🏼‍💻 Nuxt.js 🔵</td>
-      <td>:octocat: Git (GitHub, GitLab) 🔵</td>
+      <td>👨🏼‍💻 TypeScript 🟢</td>
+      <td>🖼 Adobe & Affinity Designer 🟢</td>
     </tr>
     <tr>
-      <td>👨🏼‍💻 Phaser.js 🔵</td>
-      <td>👨🏼‍💻 TypeScript 🔵</td>
-      <td>🖼 Affinity Designer 🟢</td>
+      <td>👨🏼‍💻 Unity 🟠</td>
+      <td>👨🏼‍💻 Nuxt.js 🟢</td>
+      <td>🛢 Firebase & MySQL 🟠</td>
     </tr>
     <tr>
       <td>👨🏼‍💻 Godot Engine 🟠</td>
       <td>👨🏼‍💻 React.js 🟠</td>
-      <td>🖼 Adobe XD, Figma</td>
+      <td>👨🏼‍💻 Flutter ⚫</td>
     </tr>
     <tr>
       <td colspan="2">👨🏼‍💻 Cocos Creator ⚫</td>
-      <td>🛢 Firebase 🟠</td>
+      <td>👨🏼‍💻 Swift/Xcode ⚫</td>
+    </tr>
+    <tr>
+      <td colspan="2">👨🏼‍💻 Socket.io ⚫</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td></td>
       <td>👨🏼‍💻 Ruby on Rails 🟠</td>
-      <td>✍🏼 Markdown 🔵</td>
+      <td></td>
     </tr>
     <tr>
       <td></td>
       <td>👨🏼‍💻 Nest.js ⚫</td>
-      <td>🛢 MySQL 🟠</td>
-    </tr>
-    <tr>
       <td></td>
-      <td></td>
-      <td>👨🏼‍💻 Swift, Xcode ⚫</td>
     </tr>
   </tbody>
 </table>

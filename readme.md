@@ -13,6 +13,23 @@ Start as a Web/Game Developer that have carrer path in Management way, Having a 
     🏠 "Bangkok, Thailand"
     🔗 http://localhost:3000/
 
+## 💼 Work Experience
+
+> todo
+
+## ✨ Skills
+
+> tbd
+
+## 🏅 Certification & Awards
+
+- Senior Project Awards ➡️ NCCIT `Jul-2019`
+- Project Management Certification ➡️ Cousera `Apr-2021`
+
+## 🏆 Achievement
+
+> tbd
+
 ## 🏫 Education
 
 ```json
@@ -23,18 +40,3 @@ Start as a Web/Game Developer that have carrer path in Management way, Having a 
   "gpax": 3.08
 }
 ```
-
-## ✨ Skills
-
-> tbd
-
-## 💼 Work Experience
-
-> todo
-
-## 🏅 Certification & Awards
-
-- Senior Project Awards ➡️ NCCIT `Jul-2019`
-- Project Management Certification ➡️ Cousera `Apr-2021`
-
-## 🏆 Achievement

@@ -17,20 +17,28 @@ Start as a Web/Game Developer that have carrer path in Management way, Having a 
 ### Fullstack Developer `Full-Time`
 - **May 2023 - Present:**
 - Gamify co.,ltd.
-  - Gamiqo [(website)](https://gamiqo.com)
+  - Gamiqo Website
+    - Develop systems in website
+    - Involved in set up development team
 
 ### Fullstack Developer - Senior Software Engineer `Full-Time`
 
 - **Nov 2021 - Apr 2023:**
 - Donuts Bangkok co.,ltd.
-  - SistaCafe [(website)](https://sistacafe.com/)
-  - Vibie [(admin/internal website)](https://family.vibie.live/)
+  - SistaCafe Website
+    - Develop/Maintenence updates and events in website
+    - Also work as Product Manager to prioritize roadmap and create MVPs
+    - Manage development team
+  - Vibie Application
+    - Develop admin website for internal use
 
 ### Frontend Developer - Software Engineer `Full-Time`
 
 - **Aug 2019 - Nov 2021:**
 - Donuts Bangkok co.,ltd.
-  - SistaCafe [(website)](https://sistacafe.com/)
+  - SistaCafe Websie
+    - Develop web page for website
+    - Optimize web page to better SEO ranking
 
 ## ✨ Skills
 

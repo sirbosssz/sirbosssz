@@ -2,8 +2,8 @@
 
 <div align="center">
 
-`🧑🏻‍💼 Manager` | `📊 Product Owner` | `🎮 Game Producer` | `🧑🏻‍💻 DevOps`
-
+`👨🏻‍💻 Developer` | `🎮 Game Designer` | `👨🏻‍💼 Product Manager`
+ 
 </div>
 
 ## 🏴 Introduction
@@ -11,24 +11,22 @@
 Start as a Web/Game Developer that have carrer path in Management way, Having a goal that to designing and managing to launch a successful in revenue terms of video game.
 
     🏠 "Bangkok, Thailand"
-    🔗 http://localhost:3000/
 
 ## 💼 Work Experience
 
-### Senior Software Engineer & Product Manager - Product Team `Full-Time`
+### Fullstack Developer `Full-Time`
+- **May 2023 - Present:**
+- Gamify Thailand co.,ltd.
 
-- **Nov, 2021 - Present:**
-- Sampanny co.,ltd. subsidiary of Donuts Bangkok co.,ltd
+### Fullstack Developer - Senior Software Engineer `Full-Time`
 
-### Software Engineer - Engineer Team `Full-Time`
-
-- **Aug, 2019 - Nov, 2021:**
+- **Nov 2021 - Apr 2023:**
 - Donuts Bangkok co.,ltd.
 
-### Freelance Fullstack Developer `Freelance`
+### Frontend Developer - Software Engineer `Full-Time`
 
-- **June, 2018 - Present**
-- Develop website & landing page
+- **Aug 2019 - Nov 2021:**
+- Donuts Bangkok co.,ltd.
 
 ## ✨ Skills
 

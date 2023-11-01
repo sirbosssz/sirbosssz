@@ -1,25 +1,32 @@
 # Pattadon Bao-ngern (Boss)
 
-- [🙎🏻‍♂️ My Profile](#%EF%B8%8F-my-profile)
-  - [🏴 Introduction](#-introduction)
-  - [💼 Work Experience](#-work-experience)
-  - [✨ Skills](#-skills)
-  - [🏅 Certification & Awards](#-certification--awards)
-  - [🏫 Education](#-education)
+<div align="center">
+
+`👨🏻‍💻 Developer` | `👨🏻‍💼 Product Manager` | `🎮 Game Producer`
+
+[📕 "View_Portfolio"](https://pattadonb.notion.site/pattadonb/338e62d9e6df41cd825ce7da808a0531?v=91d01a699d4a48268602da72de4b1314)
+
+</div>
+
+---
+
+- [🏴 Introduction](#-introduction)
+- [💼 Work Experience](#-work-experience)
+- [✨ Skills](#-skills)
+- [🏅 Certification & Awards](#-certification--awards)
+- [🏫 Education](#-education)
 - [🏆 My Achievement](#-my-achievement)
-- [🧑🏻‍🎓 My Learning Focus](#-my-learning-focus)
+- [🚀 My Ongoing Projects](#-my-ongoing-projects)
 
 ---
 
 <div align="center">
 
-# 🙎🏻‍♂️ My Profile
-
-[📕 "View_Portfolio"](https://pattadonb.notion.site/338e62d9e6df41cd825ce7da808a0531?v=76e99aadc3e1445d8af440aeb3abac59&pvs=4)
-
-`👨🏻‍💻 Developer` | `👨🏻‍💼 Product Manager` | `🎮 Game Producer`
+**current focus:** _"🎒 Learning in Management & Business"_
 
 </div>
+
+---
 
 ## 🏴 Introduction
 
@@ -57,6 +64,8 @@ _Aug 2019 - Nov 2021_ `Fulltime`
 
 Technologies used: `Nuxt.js` `Vue.js` `Ruby on Rails` `MySQL` `Docker` `NGINX`
 
+---
+
 ## ✨ Skills
 
 ### Development Tools
@@ -81,6 +90,8 @@ Technologies used: `Nuxt.js` `Vue.js` `Ruby on Rails` `MySQL` `Docker` `NGINX`
 - Project planning with tools using Jira, Clickup or Notion
 - Database using SQL for MySQL and PostgreSQL / MongoDB Aggregations
 
+---
+
 ## 🏅 Certification & Awards
 
 - Senior Project Awards ➡️ NCCIT `Jul-2019`
@@ -99,12 +110,12 @@ Technologies used: `Nuxt.js` `Vue.js` `Ruby on Rails` `MySQL` `Docker` `NGINX`
 
 ---
 
-# 🏆 My Achievement
+## 🏆 My Achievement
 
 > collecting...
 
 ---
 
-# 🧑🏻‍🎓 My Learning Focus
+## 🚀 My Ongoing Projects
 
-> Main Focus in Product Management
+> //WIP

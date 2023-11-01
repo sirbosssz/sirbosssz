@@ -1,6 +1,6 @@
 # Pattadon Bao-ngern (Boss)
 
-- [🙎🏻‍♂️ My Profile](#-my-profile)
+- [🙎🏻‍♂️ My Profile](#%EF%B8%8F-my-profile)
   - [🏴 Introduction](#-introduction)
   - [💼 Work Experience](#-work-experience)
   - [✨ Skills](#-skills)
@@ -11,11 +11,11 @@
 
 ---
 
+<div align="center">
+
 # 🙎🏻‍♂️ My Profile
 
 [📕 "View_Portfolio"](https://pattadonb.notion.site/338e62d9e6df41cd825ce7da808a0531?v=76e99aadc3e1445d8af440aeb3abac59&pvs=4)
-
-<div align="center">
 
 `👨🏻‍💻 Developer` | `👨🏻‍💼 Product Manager` | `🎮 Game Producer`
 
@@ -31,7 +31,7 @@ Start as a Web/Game Developer that have carrer path in Management way, Having a 
 
 ### Gamify Thailand co,.ltd
 
-#### Fullstack Developer \<DevelopmentTeam />
+Fullstack Developer \<DevelopmentTeam />
 
 _May 2023 - Present_ `Fulltime`
 
@@ -41,7 +41,7 @@ Technologies used: `Next.js` `Nest` `PostgreSQL` `Docker` `Bitbucket Pipelines` 
 
 ### Donuts Bangkok co,.ltd
 
-#### Senior Software Engineer
+Senior Software Engineer
 
 _Nov 2021 - May 2023_ `Fulltime`
 
@@ -49,7 +49,7 @@ _Nov 2021 - May 2023_ `Fulltime`
 
 Technologies used: `Nuxt.js` `Next.js` `Vue.js` `Nest` `Laravel` `Ruby on Rails` `MongoDB` `MySQL` `PostgreSQL` `Docker` `NGINX`
 
-#### Software Engineer
+Software Engineer
 
 _Aug 2019 - Nov 2021_ `Fulltime`
 

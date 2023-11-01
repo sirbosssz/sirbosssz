@@ -1,21 +1,21 @@
 # Pattadon Bao-ngern (Boss)
 
-- [🙎🏻‍♂️ My Profile](#🙎🏻‍♂️-my-profile)
-  - [🏴 Introduction](#🏴-introduction)
-  - [💼 Work Experience](#💼-work-experience)
-  - [✨ Skills](#✨-skills)
-  - [🏅 Certification & Awards](#🏅-certification--awards)
-  - [🏫 Education](#🏫-education)
-- [🏆 My Achievement](#🏆-my-achievement)
-- [🧑🏻‍🎓 My Learning Focus](#🧑🏻‍🎓-my-learning-focus)
+- [🙎🏻‍♂️ My Profile](#-my-profile)
+  - [🏴 Introduction](#-introduction)
+  - [💼 Work Experience](#-work-experience)
+  - [✨ Skills](#-skills)
+  - [🏅 Certification & Awards](#-certification--awards)
+  - [🏫 Education](#-education)
+- [🏆 My Achievement](#-my-achievement)
+- [🧑🏻‍🎓 My Learning Focus](#-my-learning-focus)
 
 ---
-
-<div align="center">
 
 # 🙎🏻‍♂️ My Profile
 
 [📕 "View_Portfolio"](https://pattadonb.notion.site/338e62d9e6df41cd825ce7da808a0531?v=76e99aadc3e1445d8af440aeb3abac59&pvs=4)
+
+<div align="center">
 
 `👨🏻‍💻 Developer` | `👨🏻‍💼 Product Manager` | `🎮 Game Producer`
 

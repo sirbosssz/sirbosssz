@@ -4,7 +4,7 @@
 
 `👨🏻‍💻 Developer` | `👨🏻‍💼 Product Manager` | `🎮 Game Producer`
 
-[📕 "View_Portfolio"](https://pattadonb.notion.site/pattadonb/338e62d9e6df41cd825ce7da808a0531?v=91d01a699d4a48268602da72de4b1314)
+[📕 &#34;View_Portfolio&#34;](https://pattadonb.notion.site/pattadonb/338e62d9e6df41cd825ce7da808a0531?v=91d01a699d4a48268602da72de4b1314)
 
 </div>
 
@@ -13,7 +13,7 @@
 - [🏴 Introduction](#-introduction)
 - [💼 Work Experience](#-work-experience)
 - [✨ Skills](#-skills)
-- [🏅 Certification & Awards](#-certification--awards)
+- [🏅 Certification &amp; Awards](#-certification--awards)
 - [🏫 Education](#-education)
 - [🏆 My Achievement](#-my-achievement)
 - [🚀 My Ongoing Projects](#-my-ongoing-projects)
@@ -33,36 +33,6 @@
 Start as a Web/Game Developer that have carrer path in Management way, Having a goal that to designing and managing to launch a successful in revenue terms of video game.
 
     🏠 "Bangkok, Thailand"
-
-## 💼 Work Experience
-
-### Gamify Thailand co,.ltd
-
-Fullstack Developer \<DevelopmentTeam />
-
-_May 2023 - Present_ `Fulltime`
-
-> Responsible for Gamiqo (gamiqo.com & marketplace.gamiqo.com) services development (marketplace, users system, microservices) and maintenance using Nest.js, Next.js and PostgreSQL
-
-Technologies used: `Next.js` `Nest` `PostgreSQL` `Docker` `Bitbucket Pipelines` `GCP`
-
-### Donuts Bangkok co,.ltd
-
-Senior Software Engineer
-
-_Nov 2021 - May 2023_ `Fulltime`
-
-> [Promoted from Software Engineer] Responsible to lead Product Team (Engineer & UX/UI Designer) for create roadmap, prioritize tasks, update infrastructure and development in SistaCafe (sistacafe.com) services using Nuxt.js, Nest.js, MySQL, MongoDB, Ruby on Rails, Docker and Nginx. Sometimes take part in development of Vibie (vibie.live) services that using Laravel, Go, PostgreSQL and Next.js
-
-Technologies used: `Nuxt.js` `Next.js` `Vue.js` `Nest` `Laravel` `Ruby on Rails` `MongoDB` `MySQL` `PostgreSQL` `Docker` `NGINX`
-
-Software Engineer
-
-_Aug 2019 - Nov 2021_ `Fulltime`
-
-> Responsible for SistaCafe (sistacafe.com) website development, transform from business requirement into microservice, enhanced website performance. Mainly using Nuxt.js, Ruby in Rails, MySQL, Docker and Nginx
-
-Technologies used: `Nuxt.js` `Vue.js` `Ruby on Rails` `MySQL` `Docker` `NGINX`
 
 ---
 

@@ -40,9 +40,9 @@ Start as a Web/Game Developer that have carrer path in Management way, Having a 
 
 ### [Learning in Progress]
 
-1. Flutter for App Development
-2. Golang for GraphQL and gRPC
-3. Cocos creator for Game Development
+[ ] Flutter for App Development
+[ ] Golang for GraphQL and gRPC
+[ ] Cocos creator for Game Development
 
 ### Technical
 

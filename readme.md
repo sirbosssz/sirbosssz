@@ -22,7 +22,7 @@
 
 <div align="center">
 
-**current focus:** _"🎒 Learning in Management & Business"_
+**current focus:** _"⚔️ collecting experience in management ways, 📱 trying ios app develop"_
 
 </div>
 
@@ -38,27 +38,29 @@ Start as a Web/Game Developer that have carrer path in Management way, Having a 
 
 ## ✨ Skills
 
-### Development Tools
+### [Learning in Progress]
 
-- Frontend development using [Vue.js](https://vuejs.org/) / [Nuxt.js](https://nuxt.com/) / [React.js](https://react.dev/) / [Next.js](https://nextjs.org/) with TypeScript and JavaScript
-- Backend development using [Express](https://expressjs.com/) and Ruby on Rails for RESTful API / [Nest.js](https://nestjs.com/) for RESTful and GraphQL / [Socket.io](http://Socket.io) for WebSocket
-- CMS development with Jamstack using Strapi
-- Setup development and production environment using Docker
-- Database using MongoDB for NoSQL / PostgreSQL and MySQL for SQL
-- Game Development using [Phaser.js](https://phaser.io/) and [Godot Engine](https://godotengine.org/)
+1. Flutter for App Development
+2. Golang for GraphQL and gRPC
+3. Cocos creator for Game Development
 
-### Management Techniques
+### Technical
 
-- Implement Agile methodology and Scrum framework
-- Lean framework
+- Full-stack development using **Next.js** with React, **Nest.js** for GraphQL and REST API, **Nuxt.js** with Vue and **Express.js** for websocket
+- Game Development using **Unity**, **Godot** and **Phaser.js**
+- Docker, K8s with Jenkins and ArgoCD, DroneCI.
+
+### Management
+
 - Software Development Life Cycle
-- Product & Software Development
+- Project management using **Agile** with **Scrum** and **Waterfall** methodology.
+- Project planning tools using **Jira**, **Clickup** and **Notion** depends on team environment.
+- Lean framework with Minimum Viable Product
 
-### Management Tools
+### Analytics
 
-- Analytics tools using Google Analytics 4, Google Sheets, Metabase, Grafana and Develop own dashboard using chart.js
-- Project planning with tools using Jira, Clickup or Notion
-- Database using SQL for MySQL and PostgreSQL / MongoDB Aggregations
+- Analytics tools using **Google Analytics 4**, **Metabase** and **Grafana** Dashboard.
+- System Analysis using **UML** with **draw.io**
 
 ---
 

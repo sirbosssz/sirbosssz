@@ -2,7 +2,7 @@
 
 <div align="center">
 
-`👨🏻‍💻 Developer` | `👨🏻‍💼 Product Manager` | `🎮 Game Producer`
+`👨🏻‍💻 Software Engineer` | `👨🏻‍💼 Product/Project Manager` | `🎮 Game Producer`
 
 [📕 &#34;View_Portfolio&#34;](https://pattadonb.notion.site/pattadonb/338e62d9e6df41cd825ce7da808a0531?v=91d01a699d4a48268602da72de4b1314)
 

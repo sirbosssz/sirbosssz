@@ -38,10 +38,9 @@ Start as a Web/Game Developer that have carrer path in Management way, Having a 
 
 ## ✨ Skills
 
-### {Learning in Progress} Technical improvement
+###  Technical improvement
 
 - [ ] Flutter for App Development
-- [ ] Golang for GraphQL and gRPC
 - [ ] Cocos creator for Game Development
 
 ### Technical
